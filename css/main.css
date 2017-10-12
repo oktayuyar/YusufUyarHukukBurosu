@@ -2004,10 +2004,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
  *
  * ------------------------------------------------------------------- */
 #portfolio {
-  background: #FFFFFF;
-  min-height: 800px;
-  position: relative;
+  margin: 0 0 5.4rem 0;
   padding: 0;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.4);
 }
 #portfolio .intro-wrap {
   padding: 15rem 0 21rem;
